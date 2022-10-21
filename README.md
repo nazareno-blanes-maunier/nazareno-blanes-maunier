@@ -1,7 +1,9 @@
 # Hi! Im *Nazareno* 
 ## Im a junior developer from Argentina! <br>
-My Skills: <p align="justify">
+## 🛠 Skills <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,js,html,css,tailwind&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,js,html,css,tailwind&theme=dark" />
   </a>
 </p>
+
+

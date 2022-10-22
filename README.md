@@ -6,7 +6,7 @@
 ### <div align="center">I'm Nazareno Blanes-Maunier!</div>  
   
 
-- 🔭 I’m currently working on [My own portfolio!](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [My own portfolio!](https://github.com/nazareno-blanes-maunier/Portfolio)  
   
 
 - 🌱 I’m currently improving frontend skills with JS and React!  
@@ -91,4 +91,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+

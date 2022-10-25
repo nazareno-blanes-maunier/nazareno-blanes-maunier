@@ -6,13 +6,13 @@
 ### <div align="center">I'm Nazareno Blanes-Maunier!</div>  
   
 
-- 🔭 I’m currently working on [My own portfolio!](https://github.com/nazareno-blanes-maunier/Portfolio)  
+- 🔭 Currently working on [My own portfolio!](https://github.com/nazareno-blanes-maunier/Portfolio)  
   
 
-- 🌱 I’m currently improving frontend skills with JS and React!  
+- 🌱 Now i'm improving frontend skills with JS and React!  
   
 
-- ⚡ Fun fact: I cannot wait for keep learning! 🤓  
+- ⚡ Fun fact: I cannot wait to keep learning! 🤓  
   
 
 <br/>  
